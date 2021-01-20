@@ -113,11 +113,11 @@ skills:
       - name: Symfony 5
         level: 80%
 
-      - name: API Platform
-        level: 65%
-
       - name: PHPUnit
         level: 70%
+
+      - name: API Platform
+        level: 65%
 
       - name: Angular 9
         level: 50%
