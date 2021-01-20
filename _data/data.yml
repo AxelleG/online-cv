@@ -34,26 +34,30 @@ sidebar:
 
       - idiom: Japanese
         level: Beginner
+        
+      - idiom: German
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Piano
         link:
 
-      - item: Snowboarding
+      - item: Table tennis
         link:
 
-      - item: Cooking
+      - item: Badminton
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently full-stack engineer at SII for Decathlon Exchange.
+      My main skill is back-end development, with Symfony 5 and API Platform.
+      I am also proficient in frontend thanks to my skills in Angular 9.
+      I am looking for a high-quality project in order to keep on getting better with Symfony.
+
+      I am always eager to learn skills in order to improve my work.
+      Quality is very important to me and the more tests on a project, the better! 
 education:
     - degree: MSc in Computer Science
       university: University of London
