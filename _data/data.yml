@@ -3,15 +3,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Florent Brassart
+    name: Axelle Galant
     tagline: Back-end developer (Symfony 5)
     avatar: identite100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: florentbrassart31@gmail.com
-    phone: +33 6 51 77 35 74
+    email: axellegalant@gmail.com
+    phone: +33 6 88 07 94 15
     website: #do not add http://
-    linkedin: florent-brassart-1a201413a
+    linkedin: axelle-galant-05a01513a
     github:
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -26,22 +26,16 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional (TOEIC 970)
-
-      - idiom: Japanese
-        level: Intermediate (N4)
+        level: Professional (TOEIC 955)
         
-      - idiom: German
+      - idiom: Spanish
         level: Beginner
 
     interests:
-      - item: Playing music (mainly piano and ukulele)
+      - item: Creative hobbies
         link:
 
-      - item: Table tennis and badminton (as a hobby in a club)
-        link:
-
-      - item: Reading (Sci-fi, fantasy, memoirs, business, self-development)
+      - item: Table Tennis
         link:
 
       - item: 3D printing
@@ -50,64 +44,55 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently full-stack engineer at SII for Decathlon Exchange.
-      My main skill is back-end development, with Symfony 5 and API Platform.
-      I am also proficient in frontend thanks to my skills in Angular 9.
-      I am looking for a high-quality project in order to keep on getting better with Symfony.
-
-      I am always eager to learn skills in order to improve my work.
-      Quality is very important to me, I strive to write tests that are reliable and bring value to projects.
+      Full-stack engineer at SII for Decathlon.
+      I am specialized in back-end development (Symfony 5, API Platform).
+      I want to join a team in order to share our knowledge and improve our coding skills together.
+      I am looking for a project which highlights the code quality and tests.
 education:
     - degree: Engineer - Information systems
       university: Centrale Lille IG2I (Lens, France)
       time: 2013 - 2018
       details:
 experiences:
-    - role: Full-stack engineer
+    - role: Back-end engineer
       time: 2018-08 - Now
-      company: SII Group (for Decathlon)
+      company: SII Group
       details: |
-        Full-stack development with Symfony 5 / API-Platform / Angular 9 (specialized in backend development).
+        Mission for Decathlon (July 2019 - Today):
+        \- Technical design, development and tests (unit and functional tests) for an API broadcasting the data repositories used to characterized the products (API Platform)
+        \- Configuration and associated development for a Kafka stream for this project
+        \- Technical design, development and tests of a new micro-service used to manage the translations for the main API (Symfony 5)
 
-        Design and development of the new Decathlon Exchange website.
-        REST APIs creation in a micro-services environment.
+        Mission for Decathlon (March 2019 - June 2019):
+        \- Technical design, development and tests (unit and functional tests) for a new CMS (API Platform)
 
-        Asynchronous messaging with Google Pub/Sub and Symfony Messenger.
-        Data indexing with Elasticsearch.
-        Unit testing with PHPUnit, Prophecy and Infection
-        Functional testing with PHPUnit.
-        Creation of a continuous integration process with Docker, Jenkins and Rancher.
+        Mission for Auchan e-commerce (September 2018 - February 2019):
+        \- Technical design, development and tests (unit and functional tests) for several micro-services of the OMS (Symfony 3 & Symfony 4)
     - role: Full-stack engineer (Internship)
-      time: 2018-02 - 2018-08
-      company: SII Group (for Decathlon)
+      time: 2018-02 - 2018-07
+      company: SII Group
       details: |
-        Full-stack development with Symfony 2 and AngularJS.
-        Maintenance and feature development on a training center management system.
-        Made the website mobile-compatible.
+        Mission for Decathlon:
+        \- Maintenance of the company website used to promote internal projects (Symfony 2, AngularJS)
+        \- Technical design and development of new features for this website
+        \- Technical design and development from scratch of an API to manage the KPI related to projects (API Platform)
     - role: Full-stack engineer (Internship)
       time: 2016-07 - 2017-01
       company: SkyLantern Original
       details: |
-        Full-stack development for a PrestaShop e-commerce website.
-        Speed optimization and features development.
-        Made two e-commerce websites mobile-compatible.
-        Continuous integration process creation with Ansible.
-    - role: Front-end developer (Internship)
-      time: 2016-04 - 2016-07
-      company: iMakr
+        Technical design and development on the new internal CRM of the company (Symfony 2)
+    - role: Web Developer (Internship)
+      time: 2016-04 - 2016-06
+      company: GB&Smith
       details: |
-        Front-end development for imakr.com, an e-commerce website powered by PrestaShop.
-        SEO optimization of the whole website.
-    - role: ASP.NET developer (Internship)
+        Migration of a website to the Symfony framework.
+        Development on the internal CRM of the company (Symfony 2).
+    - role: Web Developer (Internship)
       time: 2015-04 - 2015-07
-      company: Ramery
+      company: Faire-Savoir
       details: |
-        Specification, design and development of an application aimed at renting IT hardware from Ramery headquarters to their subsidiaries.
-    - role: Handler (Internship)
-      time: 2014-06 - 2014-08
-      company: Leroy Merlin
-      details: |
-        Shelving and stock management for Leroy Merlin.
+        Development on a marketing tool (AngularJS)
+        Unit tests (Jasmine)
 
 skills:
     title: Skills &amp; Proficiency
@@ -120,10 +105,7 @@ skills:
         level: 70%
 
       - name: API Platform
-        level: 65%
-
-      - name: Angular 9
-        level: 50%
+        level: 70%
 
       - name: Python
-        level: 40%
+        level: 20%
