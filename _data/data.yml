@@ -4,7 +4,7 @@ sidebar:
 
     # Profile information
     name: Axelle Galant
-    tagline: Back-end developer (Symfony 5)
+    tagline: Back-end developer - Symfony 5
     avatar: axelle_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,7 +26,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional (TOEIC 955)
+        level: Professional - TOEIC 955
         
       - idiom: Spanish
         level: Beginner
