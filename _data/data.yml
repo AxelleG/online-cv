@@ -60,27 +60,30 @@ experiences:
       details: |
         Mission for Decathlon (July 2019 - Today):
         
-        \- Technical design, development and tests (unit and functional tests) for an API broadcasting the data repositories used to characterized the products (API Platform)
+          \- Technical design, development and tests (unit and functional tests) for an API broadcasting the data repositories used to characterized the products (API Platform)
         
-        \- Configuration and associated development for a Kafka stream for this project
+          \- Configuration and associated development for a Kafka stream for this project
         
-        \- Technical design, development and tests of a new micro-service used to manage the translations for the main API (Symfony 5)
+          \- Technical design, development and tests of a new micro-service used to manage the translations for the main API (Symfony 5)
 
         Mission for Decathlon (March 2019 - June 2019):
         
-        \- Technical design, development and tests (unit and functional tests) for a new CMS (API Platform)
+          \- Technical design, development and tests (unit and functional tests) for a new CMS (API Platform)
 
         Mission for Auchan e-commerce (September 2018 - February 2019):
         
-        \- Technical design, development and tests (unit and functional tests) for several micro-services of the OMS (Symfony 3 & Symfony 4)
+          \- Technical design, development and tests (unit and functional tests) for several micro-services of the OMS (Symfony 3 & Symfony 4)
     - role: Full-stack engineer (Internship)
       time: 2018-02 - 2018-07
       company: SII Group
       details: |
         Mission for Decathlon:
-        \- Maintenance of the company website used to promote internal projects (Symfony 2, AngularJS)
-        \- Technical design and development of new features for this website
-        \- Technical design and development from scratch of an API to manage the KPI related to projects (API Platform)
+        
+          \- Maintenance of the company website used to promote internal projects (Symfony 2, AngularJS)
+        
+          \- Technical design and development of new features for this website
+        
+          \- Technical design and development from scratch of an API to manage the KPI related to projects (API Platform)
     - role: Full-stack engineer (Internship)
       time: 2016-07 - 2017-01
       company: SkyLantern Original
