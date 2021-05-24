@@ -5,7 +5,7 @@ sidebar:
     # Profile information
     name: Axelle Galant
     tagline: Back-end developer (Symfony 5)
-    avatar: identite100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: axelle_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: axellegalant@gmail.com
@@ -59,14 +59,19 @@ experiences:
       company: SII Group
       details: |
         Mission for Decathlon (July 2019 - Today):
+        
         \- Technical design, development and tests (unit and functional tests) for an API broadcasting the data repositories used to characterized the products (API Platform)
+        
         \- Configuration and associated development for a Kafka stream for this project
+        
         \- Technical design, development and tests of a new micro-service used to manage the translations for the main API (Symfony 5)
 
         Mission for Decathlon (March 2019 - June 2019):
+        
         \- Technical design, development and tests (unit and functional tests) for a new CMS (API Platform)
 
         Mission for Auchan e-commerce (September 2018 - February 2019):
+        
         \- Technical design, development and tests (unit and functional tests) for several micro-services of the OMS (Symfony 3 & Symfony 4)
     - role: Full-stack engineer (Internship)
       time: 2018-02 - 2018-07
