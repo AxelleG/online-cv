@@ -58,7 +58,7 @@ experiences:
       time: 2018-08 - Now
       company: SII Group
       details: |
-        Mission for Decathlon (July 2019 - Today):
+        **Mission for Decathlon (July 2019 - Today):**
         
           \- Technical design, development and tests (unit and functional tests) for an API broadcasting the data repositories used to characterized the products (API Platform)
         
@@ -66,18 +66,18 @@ experiences:
         
           \- Technical design, development and tests of a new micro-service used to manage the translations for the main API (Symfony 5)
 
-        Mission for Decathlon (March 2019 - June 2019):
+        **Mission for Decathlon (March 2019 - June 2019):**
         
           \- Technical design, development and tests (unit and functional tests) for a new CMS (API Platform)
 
-        Mission for Auchan e-commerce (September 2018 - February 2019):
+        **Mission for Auchan e-commerce (September 2018 - February 2019):**
         
           \- Technical design, development and tests (unit and functional tests) for several micro-services of the OMS (Symfony 3 & Symfony 4)
     - role: Full-stack engineer (Internship)
       time: 2018-02 - 2018-07
       company: SII Group
       details: |
-        Mission for Decathlon:
+        **Mission for Decathlon:**
         
           \- Maintenance of the company website used to promote internal projects (Symfony 2, AngularJS)
         
@@ -109,11 +109,14 @@ skills:
       - name: Symfony 5
         level: 80%
 
-      - name: PHPUnit
+      - name: PHPUnit / Behat
         level: 70%
 
       - name: API Platform
         level: 70%
+        
+      - name: Kubernetes
+        level: 30%
 
       - name: Python
         level: 20%
