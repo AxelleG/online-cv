@@ -28,8 +28,8 @@ sidebar:
       - idiom: English
         level: Professional - TOEIC 955
         
-      - idiom: Spanish
-        level: Beginner
+#       - idiom: Spanish
+#         level: Beginner
 
     interests:
       - item: Sewing
@@ -47,10 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Full-stack engineer at SII for Decathlon.
-      I am specialized in back-end development (Symfony 5, API Platform).
+      Back-end engineer specialized in web development (Symfony 4+, API Platform).
       
-      I want to join a team in order to share our knowledge and improve our coding skills together.
+      Interested in joining a team to share our knowledge and improve our coding skills together.
       I am looking for a project which highlights the code quality and tests.
       
       I have had several experiences in retail but I am also open to new sectors.
@@ -64,11 +63,21 @@ experiences:
       time: 2018-08 - Now
       company: SII Group
       details: |
-        **Mission for Decathlon (July 2019 - Today):**
+        **Mission for Auchan Retail France (February 2022 - March 2023):**
+        
+          \- Bug fixes, development, tests (unit and functional) for several micro-services of the OMS of Auchan.fr (Symfony 4)
+          
+          \- Tests on dedicated environments managed with Kubernetes
+      
+        **Mission for Decathlon (July 2019 - February 2022):**
         
           \- Technical design, development and tests (unit and functional tests) for an API broadcasting the data repositories used to characterized the products (API Platform)
         
+          \- Functional tests and quality tools setup (Behat, php-cs-fixer, phpstan)
+        
           \- Configuration and associated development for a Kafka stream for this project
+          
+          \- Deployment on preproduction and production (Kubernetes, GCP)
         
           \- Technical design, development and tests of a new micro-service used to manage the translations for the main API (Symfony 5)
 
