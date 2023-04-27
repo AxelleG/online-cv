@@ -9,7 +9,7 @@ sidebar:
 
     # Sidebar links
     email: axellegalant@gmail.com
-    phone: +33 6 88 07 94 15
+#     phone: +33 6 88 07 94 15
     website: #do not add http://
     linkedin: axelle-galant-05a01513a
     github:
@@ -32,13 +32,10 @@ sidebar:
 #         level: Beginner
 
     interests:
-      - item: Sewing
+      - item: Costume making
         link:
         
       - item: Creative hobbies
-        link:
-
-      - item: Table Tennis
         link:
 
       - item: 3D printing
@@ -49,10 +46,11 @@ career-profile:
     summary: |
       Back-end engineer specialized in web development (Symfony 4+, API Platform).
       
-      Interested in joining a team to share our knowledge and improve our coding skills together.
-      I am looking for a project which highlights the code quality and tests.
+      Interested in joining a team to share our knowledge and improve our coding skills together, I am looking for a project which highlights the code quality and tests.
       
       I have had several experiences in retail but I am also open to new sectors.
+      
+      I am fluent in English and use this language regularly in my job.
 education:
     - degree: Engineer - Information systems
       university: Centrale Lille IG2I (Lens, France)
@@ -61,7 +59,7 @@ education:
 experiences:
     - role: Back-end engineer
       time: 2018-08 - Now
-      company: SII Group
+      company: "SII Group (Villeneuve d'Ascq)"
       details: |
         **Mission for Auchan Retail France (February 2022 - March 2023):**
         
@@ -88,53 +86,48 @@ experiences:
         **Mission for Auchan e-commerce (September 2018 - February 2019):**
         
           \- Technical design, development and tests (unit and functional tests) for several micro-services of the OMS (Symfony 3 & Symfony 4)
-    - role: Full-stack engineer (Internship)
+    - role: Intern Full-stack Engineer
       time: 2018-02 - 2018-07
-      company: SII Group
+      company: "SII Group (Villeneuve d'Ascq)"
       details: |
         **Mission for Decathlon:**
         
-          \- Maintenance of the company website used to promote internal projects (Symfony 2, AngularJS)
-        
-          \- Technical design and development of new features for this website
-        
-          \- Technical design and development from scratch of an API to manage the KPI related to projects (API Platform)
-    - role: Full-stack engineer (Internship)
+          \- Development, technical design and maintenance for an internal website and its micro-service (Symfony 2, API Platform, AngularJS)
+    - role: Intern Full-stack Engineer
       time: 2016-07 - 2017-01
-      company: SkyLantern Original
+      company: SkyLantern Original (Lille)
       details: |
         Technical design and development on the new internal CRM of the company (Symfony 2)
-    - role: Web Developer (Internship)
+    - role: Intern Web Developer
       time: 2016-04 - 2016-06
-      company: GB&Smith
+      company: GB&Smith (London)
       details: |
-        Migration of a website to the Symfony framework.
-        Development on the internal CRM of the company (Symfony 2).
-    - role: Web Developer (Internship)
-      time: 2015-04 - 2015-07
-      company: Faire-Savoir
-      details: |
-        Development on a marketing tool (AngularJS)
-        Unit tests (Jasmine)
+        Migration of a website to the Symfony framework and development on the internal CRM of the company (Symfony 2).
+#     - role: Web Developer (Internship)
+#       time: 2015-04 - 2015-07
+#       company: Faire-Savoir
+#       details: |
+#         Development on a marketing tool (AngularJS)
+#         Unit tests (Jasmine)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Symfony 5
-        level: 80%
+        level: 90%
 
       - name: PHPUnit / Behat
-        level: 70%
+        level: 80%
 
       - name: API Platform
         level: 70%
         
       - name: Docker
-        level: 50%
+        level: 70%
         
       - name: Kubernetes
-        level: 30%
+        level: 50%
 
       - name: Python
         level: 20%
