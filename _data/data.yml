@@ -27,9 +27,6 @@ sidebar:
 
       - idiom: English
         level: Professional - TOEIC 955
-        
-#       - idiom: Spanish
-#         level: Beginner
 
     interests:
       - item: Costume making
@@ -63,25 +60,27 @@ experiences:
       details: |
         **Mission for Auchan Retail France (February 2022 - March 2023):**
         
-          \- Bug fixes, development, tests (unit and functional) for several micro-services of the OMS of Auchan.fr (Symfony 4)
+          \- Developer in a team of 3 senior developers working on several micro-services of the OMS of Auchan.fr (Symfony 4)  (Scrum methodology)
           
-          \- Tests on dedicated environments managed with Kubernetes
+          \- Use of the BDD and TDD methodologies
+          
+          \- Use of Kubernetes to test the features on preproduction environment
       
         **Mission for Decathlon (July 2019 - February 2022):**
         
-          \- Technical design, development and tests (unit and functional tests) for an API broadcasting the data repositories used to characterized the products (API Platform)
+          \- Development on an internal API broadcasting the data repositories used on 50 projects to characterize the products (API Platform), in a team of 4 developers
         
-          \- Functional tests and quality tools setup (Behat, php-cs-fixer, phpstan)
+          \- In charge of the test coverage and quality (PHPUnit, Behat, php-cs-fixer, phpstan)
         
-          \- Configuration and associated development for a Kafka stream for this project
+          \- Configuration and associated development of a Kafka stream
+        
+          \- Technical design and development of a micro-service to manage the translations for 40+ locales and fallback options (Symfony 5)
           
-          \- Deployment on preproduction and production (Kubernetes, GCP)
-        
-          \- Technical design, development and tests of a new micro-service used to manage the translations for the main API (Symfony 5)
+          \- Deployment on preproduction and production with Kubernetes (GCP)
 
         **Mission for Decathlon (March 2019 - June 2019):**
         
-          Developer also in charge of the installation of several tools used for testing and quality improvment for a new CMS (API Platform)
+          Developer also in charge of the installation of several tools used for testing and quality improvment for a new CMS (API Platform).
 
         **Mission for Auchan e-commerce (September 2018 - February 2019):**
         
@@ -105,12 +104,6 @@ experiences:
       company: GB&Smith (London)
       details: |
         Migration of a website to the Symfony framework and development on the internal CRM of the company (Symfony 2).
-#     - role: Web Developer (Internship)
-#       time: 2015-04 - 2015-07
-#       company: Faire-Savoir
-#       details: |
-#         Development on a marketing tool (AngularJS)
-#         Unit tests (Jasmine)
 
 skills:
     title: Skills &amp; Proficiency
@@ -131,5 +124,5 @@ skills:
       - name: Kubernetes
         level: 50%
 
-      - name: Python
+      - name: ReactJS
         level: 20%
