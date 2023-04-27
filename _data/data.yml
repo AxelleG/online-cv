@@ -81,18 +81,20 @@ experiences:
 
         **Mission for Decathlon (March 2019 - June 2019):**
         
-          \- Technical design, development and tests (unit and functional tests) for a new CMS (API Platform)
+          Developer also in charge of the installation of several tools used for testing and quality improvment for a new CMS (API Platform)
 
         **Mission for Auchan e-commerce (September 2018 - February 2019):**
         
-          \- Technical design, development and tests (unit and functional tests) for several micro-services of the OMS (Symfony 3 & Symfony 4)
+          Developer in a team with 5 senior developers. The technical department used the agile framework Nexus (Scrum).
+          
+          Development and maintenance for several micro-services of the OMS (Symfony 3 & Symfony 4) with an emphasis on the tests and quality.
     - role: Intern Full-stack Engineer
       time: 2018-02 - 2018-07
       company: "SII Group (Villeneuve d'Ascq)"
       details: |
         **Mission for Decathlon:**
         
-          \- Development, technical design and maintenance for an internal website and its micro-service (Symfony 2, API Platform, AngularJS)
+          Development, technical design and maintenance for an internal website and its micro-service (Symfony 2, API Platform, AngularJS)
     - role: Intern Full-stack Engineer
       time: 2016-07 - 2017-01
       company: SkyLantern Original (Lille)
