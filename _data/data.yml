@@ -32,6 +32,9 @@ sidebar:
       - item: Costume making
         link:
         
+      - item: Learning new costume making skills
+        link:
+        
       - item: Creative hobbies
         link:
 
@@ -41,13 +44,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Back-end engineer specialized in web development (Symfony 4+, API Platform).
+      Back-end engineer specialized in web API (Symfony 4+, API Platform).
       
-      Interested in joining a team to share our knowledge and improve our coding skills together, I am looking for a project which highlights the code quality and tests.
+      Wanting in joining a team to share our knowledge and improve our coding skills together, I am looking for a project which highlights the code quality and tests.
       
       I have had several experiences in retail but I am also open to new sectors.
       
       I am fluent in English and use this language regularly in my job.
+      
+      Can't wait to meet you!
 education:
     - degree: Engineer - Information systems
       university: Centrale Lille IG2I (Lens, France)
@@ -60,40 +65,40 @@ experiences:
       details: |
         **Mission for Auchan Retail France (February 2022 - March 2023):**
         
-          \- Developer in a team of 3 senior developers working on several micro-services of the OMS of Auchan.fr (Symfony 4)  (Scrum methodology)
-          
+          \- Developer in a scrum team composed of senior developers working on several micro-services (Symfony 4) used for the order integration and the management of the reserved stocks of Auchan.fr
+                    
           \- Use of the BDD and TDD methodologies
           
           \- Use of Kubernetes to test the features on preproduction environment
       
         **Mission for Decathlon (July 2019 - February 2022):**
         
-          \- Development on an internal API broadcasting the data repositories used on 50 projects to characterize the products (API Platform), in a team of 4 developers
+          \- Development on an internal API broadcasting the data repositories used on 50 projects to characterize the products (API Platform 2), in a scrum team
         
           \- In charge of the test coverage and quality (PHPUnit, Behat, php-cs-fixer, phpstan)
         
-          \- Configuration and associated development of a Kafka stream
+          \- Setup and associated development of a Kafka stream
         
-          \- Technical design and development of a micro-service to manage the translations for 40+ locales and fallback options (Symfony 5)
+          \- Technical design and development of a micro-service to manage the translations for 40+ locales and fallback options (Symfony 5) used to translate the online catalog
           
-          \- Deployment on preproduction and production with Kubernetes (GCP)
+          \- Deployment on the staging and production environments with Kubernetes (GCP)
 
         **Mission for Decathlon (March 2019 - June 2019):**
         
-          Developer also in charge of the installation of several tools used for testing and quality improvment for a new CMS (API Platform).
+          Developer in charge of installing several testing and quality tools (PHPUnit, Behat, phpstan) for a new CMS (API Platform).
 
         **Mission for Auchan e-commerce (September 2018 - February 2019):**
         
-          Developer in a team with 5 senior developers. The technical department used the agile framework Nexus (Scrum).
+          Developer in a scrum team composed of senior developers, organized with the Nexus framework, working with an emphasis on the tests and quality (PHPUnit, Behat, php-cs-fixer, phpstan)
           
-          Development and maintenance for several micro-services of the OMS (Symfony 3 & Symfony 4) with an emphasis on the tests and quality.
+          Development and maintenance for several micro-services (Symfony 3) used to manage the payment and loyalty systems and the after-sales services of the OMS
     - role: Intern Full-stack Engineer
       time: 2018-02 - 2018-07
       company: "SII Group (Villeneuve d'Ascq)"
       details: |
         **Mission for Decathlon:**
         
-          Development, technical design and maintenance for an internal website and its micro-service (Symfony 2, API Platform, AngularJS)
+          Development, technical design and maintenance for a website managing the internal participative projects of the company (Symfony 2, API Platform 2, AngularJS)
     - role: Intern Full-stack Engineer
       time: 2016-07 - 2017-01
       company: SkyLantern Original (Lille)
@@ -103,14 +108,16 @@ experiences:
       time: 2016-04 - 2016-06
       company: GB&Smith (London)
       details: |
-        Migration of a website to the Symfony framework and development on the internal CRM of the company (Symfony 2).
+        Linguistic internship
+        
+        Development on the internal CRM of the company (Symfony 2)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Symfony 5
-        level: 90%
+        level: 85%
 
       - name: PHPUnit / Behat
         level: 80%
