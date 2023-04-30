@@ -65,40 +65,40 @@ experiences:
       details: |
         **Mission for Auchan Retail France (February 2022 - March 2023):**
         
-          \- Developer in a scrum team composed of senior developers working on several micro-services (Symfony 4) used for the order integration and the management of the reserved stocks of Auchan.fr
+          Developer in a scrum team composed of senior developers working on several micro-services (Symfony 4): order integration and reserved stocks management for Auchan.fr
                     
-          \- Use of the BDD and TDD methodologies
+          Use of the BDD and TDD methodologies
           
-          \- Use of Kubernetes to test the features on preproduction environment
+          Use of Kubernetes to test the features on the staging environment
       
         **Mission for Decathlon (July 2019 - February 2022):**
         
-          \- Development on an internal API broadcasting the data repositories used on 30 projects to characterize the products (API Platform 2), in a scrum team
+          Development on an internal API broadcasting the data repositories used on 30 projects to characterize the products (API Platform 2)
         
-          \- In charge of the test coverage and quality (PHPUnit, Behat, php-cs-fixer, phpstan)
+          In charge of code quality and test coverage (PHPUnit, Behat, php-cs-fixer, phpstan)
         
-          \- Setup and associated development of a Kafka stream
+          Setup and associated development of a Kafka stream
         
-          \- Technical design and development of a micro-service to manage the translations for 40+ locales and fallback options (Symfony 5) used to translate the online catalog
+          Technical design and development of a micro-service to manage the translations for 40+ locales and fallback options (Symfony 5) used to translate the online catalog
           
-          \- Deployment on the staging and production environments with Kubernetes (GCP)
+          Deployment on the staging and production environments with Kubernetes (GCP)
 
         **Mission for Decathlon (March 2019 - June 2019):**
         
-          Developer in charge of installing several testing and quality tools (PHPUnit, Behat, phpstan) for a new CMS (API Platform).
+          Developer in charge of installing several testing and quality tools (PHPUnit, Behat, phpstan) for a new CMS (API Platform 2).
 
         **Mission for Auchan e-commerce (September 2018 - February 2019):**
         
-          Developer in a scrum team composed of senior developers, organized with the Nexus framework, working with an emphasis on the tests and quality (PHPUnit, Behat, php-cs-fixer, phpstan)
+          Developer in a scrum team composed of senior developers, organized with the Nexus framework. Emphasis on code quality and automated testing (PHPUnit, Behat, php-cs-fixer, phpstan)
           
-          Development and maintenance for several micro-services (Symfony 3) used to manage the payment and loyalty systems and the after-sales services of the OMS
+          Development and maintenance on several micro-services of the OMS: payment, loyalty program, after-sales (Symfony 3)
     - role: Intern Full-stack Engineer
       time: 2018-02 - 2018-07
       company: "SII Group (Villeneuve d'Ascq)"
       details: |
         **Mission for Decathlon:**
         
-          Development, technical design and maintenance for a website managing the internal participative projects of the company (Symfony 2, API Platform 2, AngularJS)
+          Development, technical design and maintenance on a website that showcases and helps users manage internal participative projects (Symfony 2, API Platform 2, AngularJS)
     - role: Intern Full-stack Engineer
       time: 2016-07 - 2017-01
       company: SkyLantern Original (Lille)
@@ -110,7 +110,7 @@ experiences:
       details: |
         Linguistic internship
         
-        Development on the internal CRM of the company (Symfony 2)
+        Development on the internal CRM (Symfony 2)
 
 skills:
     title: Skills &amp; Proficiency
