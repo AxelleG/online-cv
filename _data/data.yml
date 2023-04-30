@@ -73,7 +73,7 @@ experiences:
       
         **Mission for Decathlon (July 2019 - February 2022):**
         
-          \- Development on an internal API broadcasting the data repositories used on 50 projects to characterize the products (API Platform 2), in a scrum team
+          \- Development on an internal API broadcasting the data repositories used on 30 projects to characterize the products (API Platform 2), in a scrum team
         
           \- In charge of the test coverage and quality (PHPUnit, Behat, php-cs-fixer, phpstan)
         
