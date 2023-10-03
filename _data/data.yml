@@ -60,7 +60,18 @@ education:
       details:
 experiences:
     - role: Back-end engineer
-      time: 2018-08 - Now
+      time: 2023-07 - Now
+      company: "Mecatechnic (Wambrechies)"
+      details: |
+          In charge of testing within the team
+          
+          Implementation of tests and quality tools (PHPUnit, PHP-CS-Fixer, PHPStan)
+          
+          Development on the e-commerce websites Mecatechnic and Roadloisirs (Symfony 4)
+          
+          Facilitator for Agile retrospectives within the IT teams (Preparation and facilitation)
+    - role: Back-end engineer
+      time: 2018-08 - 2023-06
       company: "SII Group (Villeneuve d'Ascq)"
       details: |
         **Mission for Auchan Retail France (February 2022 - March 2023):**
