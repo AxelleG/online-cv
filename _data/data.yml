@@ -59,17 +59,19 @@ education:
       time: 2013 - 2018
       details:
 experiences:
-    - role: Web development engineer
+    - role: Web development engineer & Scrum Master
       time: 2023-07 - Now
       company: "Mecatechnic (Wambrechies)"
       details: |
-          In charge of testing within the team
+          Test Manager within the team
           
           Implementation of tests and quality tools (PHPUnit, PHP-CS-Fixer, PHPStan)
+
+          Implementing Agile in IT teams: training IT teams and the rest of the company, creating processes tailored to the company
+
+          Scrum Master: leading rituals (daily meetings, sprint planning, retrospectives), ensuring best practices, communicating sprint progress...
           
           Development on the e-commerce websites Mecatechnic and Roadloisirs (Symfony 4)
-          
-          Facilitator for Agile retrospectives within the IT teams (Preparation and facilitation)
     - role: Back-end engineer
       time: 2018-08 - 2023-06
       company: "SII Group (Villeneuve d'Ascq)"
