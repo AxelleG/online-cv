@@ -129,7 +129,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Symfony 5
+      - name: Symfony
         level: 85%
 
       - name: PHPUnit / Behat
